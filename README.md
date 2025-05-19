@@ -17,7 +17,7 @@ Implementar un flujo de trabajo robusto para análisis predictivo supervisado, o
 - Análisis de calidad, nulos, duplicados, tipos y patrones básicos.
 - Visualizaciones preliminares.
 
-📁 [`fase1_exploracion_eda/Fase1_EDA.ipynb`](./fase1_exploracion_eda/Fase1_EDA.ipynb)
+🔗 [Ver notebook Fase 1](https://github.com/Macazella/DataAnalytics/blob/DBA/Fase1_EDA.ipynb)
 
 ---
 
@@ -27,7 +27,7 @@ Implementar un flujo de trabajo robusto para análisis predictivo supervisado, o
 - Conversión de tipos y tratamiento de nulos.
 - Exportación del dataset limpio.
 
-📁 [`fase2_etl_transformacion/Fase2_ETL_Limpieza.ipynb`](./fase2_etl_transformacion/Fase2_ETL_Limpieza.ipynb)
+🔗 [Ver notebook Fase 2](https://github.com/Macazella/DataAnalytics/blob/DBA/Fase2_ETL_Light.ipynb)
 
 ---
 
@@ -36,7 +36,7 @@ Implementar un flujo de trabajo robusto para análisis predictivo supervisado, o
 - KPIs como tasa de abandono, antigüedad, ingresos.
 - Insights para toma de decisiones.
 
-📁 [`fase3_analisis_negocio/Fase3_Analisis_Negocio.ipynb`](./fase3_analisis_negocio/Fase3_Analisis_Negocio.ipynb)
+🔗 [Ver notebook Fase 3](https://github.com/Macazella/DataAnalytics/blob/DBA/Fase3_AnalisisNegocio_Generico.ipynb)
 
 ---
 
@@ -46,7 +46,7 @@ Implementar un flujo de trabajo robusto para análisis predictivo supervisado, o
 - Comparación de modelos (Logistic Regression y Random Forest).
 - Exportación del modelo ganador.
 
-📁 [`fase4_modelado_predictivo/Fase4_Modelo_Predictivo.ipynb`](./fase4_modelado_predictivo/Fase4_Modelo_Predictivo.ipynb)
+🔗 [Ver notebook Fase 4](https://github.com/Macazella/DataAnalytics/blob/DBA/Fase4_Modelo.ipynb)
 
 ---
 
@@ -55,13 +55,13 @@ Implementar un flujo de trabajo robusto para análisis predictivo supervisado, o
 - Cálculo de KPIs y tablas dinámicas.
 - Validación de integridad para reporting.
 
-📁 [`fase5_reporte_powerbi/Fase5_Reporte_BI.ipynb`](./fase5_reporte_powerbi/Fase5_Reporte_BI.ipynb)
+🔗 [Ver notebook Fase 5](https://github.com/Macazella/DataAnalytics/blob/DBA/Fase5_ReporteBI.ipynb)
 
 ---
 
 ## 📂 Dataset
 
-El dataset base utilizado se encuentra en la carpeta [`data/`](./data/). Incluye:
+El dataset base utilizado se encuentra en la carpeta `/data` del proyecto. Incluye:
 - Dataset original (`HR_Analytics_original.csv`)
 - Dataset limpio (`HR_Analytics_limpio.csv`)
 - Dataset final para Power BI (`HR_Analytics_para_PowerBI.csv`)
@@ -71,7 +71,7 @@ El dataset base utilizado se encuentra en la carpeta [`data/`](./data/). Incluye
 
 ## 🖼 Visualizaciones
 
-Capturas y visualizaciones clave generadas en el análisis se encuentran en la carpeta [`img/`](./img/).
+Capturas y visualizaciones clave generadas en el análisis se encuentran en la carpeta `/img`.
 
 ---
 
